@@ -15,7 +15,7 @@ desktop prototype is also included for real-time diagnosis.
 - Jupyter Notebook
 
 ## Dataset
-[Breast Cancer Wisconsin (Diagnostic) Data Set]([https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data])
+[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 
 ##  Files in This Project
