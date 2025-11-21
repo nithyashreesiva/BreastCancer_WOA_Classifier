@@ -14,6 +14,10 @@ desktop prototype is also included for real-time diagnosis.
 - Tkinter GUI
 - Jupyter Notebook
 
+## Dataset
+[Breast Cancer Wisconsin (Diagnostic) Data Set]([https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data])
+
+
 ##  Files in This Project
 
 WOA_BreastCancer.ipynb - Notebook for preprocessing, WOA feature selection, and training 
